@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/DFlipFlop.v,1743672798,verilog,,C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/JKFlipFlop.v,,DFlipFlop,,,,,,,,
+C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/JKFlipFlop.v,1743705420,verilog,,C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/TFlipFlop.v,,JKFlipFlop,,,,,,,,
+C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/TFlipFlop.v,1743706153,verilog,,C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/top.v,,TFlipFlop,,,,,,,,
+C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/top.v,1743705943,verilog,,C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/test.v,,top,,,,,,,,
+C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/test.v,1743676827,verilog,,,,test,,,,,,,,
