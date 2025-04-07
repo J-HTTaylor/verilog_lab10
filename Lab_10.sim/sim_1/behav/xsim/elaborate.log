@@ -1,0 +1,24 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/vivado/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_behav xil_defaultlib.test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 16 for port 'sw' [C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/test.v:7]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 16 for port 'led' [C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/test.v:8]
+WARNING: [VRFC 10-5021] port 'JKData' is not connected on this instance [C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/top.v:17]
+WARNING: [VRFC 10-5021] port 'TData' is not connected on this instance [C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/top.v:27]
+WARNING: [VRFC 10-3129] assignment to input 'JKQ' [C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/JKFlipFlop.v:17]
+WARNING: [VRFC 10-3129] assignment to input 'notJKQ' [C:/Users/james/Uni_work/Semester_4/ECE 230L/Lab_10/Lab_10.srcs/sources_1/new/JKFlipFlop.v:18]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.DFlipFlop
+Compiling module xil_defaultlib.JKFlipFlop
+Compiling module xil_defaultlib.TFlipFlop
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_behav
